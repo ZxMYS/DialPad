@@ -2,8 +2,7 @@
 //  AppDelegate.h
 //  DialPad
 //
-//  Created by Xiao Zhu on 14/10/25.
-//  Copyright (c) 2014年 Xiao Zhu. All rights reserved.
+//  Created by ZxMYS on 14/10/25.
 //
 
 #import <Cocoa/Cocoa.h>
